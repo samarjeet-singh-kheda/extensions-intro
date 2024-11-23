@@ -1,0 +1,3 @@
+1) manifest.json keys contain basic metadata for the extension. They control how the extension appears on the extensions page and, when published, on the Chrome Web Store.
+
+2) The only required keys are "manifest_version", "name", and "version"
